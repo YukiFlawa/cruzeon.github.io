@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <a href="https://yukiflawa.github.io/cruzeon.github.io">CRUZEON</a>
-    <a href="https://yukiflawa.github.io/docs.cruzeon.github.io">DOCUMENTATION</a>
+<a href="https://yukiflawa.github.io/cruzeon.github.io">CRUZEONs</a>
+<a href="https://yukiflawa.github.io/docs.cruzeon.github.io">DOCUMENTATION</a>
 </body>
 </html>
